@@ -11,6 +11,8 @@
 
 #### This project is a submission to the Kaggle Agents Intensive Capstone Project under the 'Freestyle' track.
 
+[View project on NBViewer (if GitHub fails to render)](https://nbviewer.org/github/HyperspaceDan/Kaggle_Auto_Auditor/blob/main/Kaggle_Auto_Auditor_(CapstoneProject).ipynb)
+
 ## 🚀 Overview: From Passive Linter to Active Enhancer
 The Kaggle Auto-Auditor is a next-generation multi-agent system designed to tackle the "Reproducibility Crisis" in public data science.
 
