@@ -1,0 +1,7 @@
+google-genai
+langgraph
+langchain
+langchain-google-genai
+kaggle
+pydantic
+# Note: Users must provide their own kaggle.json and Google API Key
