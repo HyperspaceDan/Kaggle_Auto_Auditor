@@ -121,4 +121,4 @@ This project uses public Kaggle notebooks as test cases to demonstrate the **Aut
 ## Project Status
 * Track: Freestyle
 * Status: Complete
-* License: BSD 3-Clause License
+* License: CC BY 4.0
